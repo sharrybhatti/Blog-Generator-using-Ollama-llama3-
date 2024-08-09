@@ -1,11 +1,5 @@
-sentence-transformers
-uvicorn
-CTransformers
 langchain
-python-box
 streamlit
 langchain_community
-huggingface
-langchain-huggingface
 langchain-ollama
 ollama
